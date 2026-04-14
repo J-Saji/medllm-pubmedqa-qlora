@@ -1,5 +1,5 @@
 # medllm-pubmedqa-qlora
-Fine-tuned LLaMA 3.2 3B on medical QA datasets (PubMedQA + MedMCQA) using QLoRA for domain-specific medical question answering.
+Fine-tuned LLaMA 3.2 3B on medical QA datasets (PubMedQA 900 examples + MedMCQA 5000 examples) using QLoRA for domain-specific medical question answering.
 
 Fine tuned model- http://huggingface.co/jesjoah/medllm-pubmedqa-qlora
 
