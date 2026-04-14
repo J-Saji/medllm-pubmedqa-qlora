@@ -1,0 +1,14 @@
+torch
+transformers
+peft
+trl
+bitsandbytes
+accelerate
+datasets
+gradio
+rouge-score
+bert-score
+nltk
+huggingface-hub
+numpy
+scipy
